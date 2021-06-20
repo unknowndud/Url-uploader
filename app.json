@@ -1,6 +1,6 @@
 {
-  "name": "TG URL Uploader",
-  "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
+  "name": "URL Uploader",
+  "description": "Telegram's best  ALL-In-One Multi Purpose RoBot.",
   "keywords": [
     "telegram",
     "best",
@@ -14,9 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "success_url": "https://telegram.dog/Gadget273",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
